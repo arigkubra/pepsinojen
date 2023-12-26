@@ -1,0 +1,25 @@
+{
+  "name": "pepsinojen",
+  "displayName": "Pepsinojen",
+  "description": "Just pastel colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pepsinojen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pepsinojen-color-theme.json"
+      }
+    ]
+  }
+}
